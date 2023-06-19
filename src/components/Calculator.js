@@ -11,15 +11,18 @@ class Calculator extends React.Component {
   }
 
   setResult = (result) => {
-    this.setState({result});
-  }
+    this.setState({ result });
+  };
 
   render() {
     return (
-      <div className="flex flex-col items-center justify-center h-screen bg-gray-200">
-        <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col">
-          <CalculatorForm setResult={this.setResult}/>
-          <p className="text-gray-700 text-lg">Result: {this.state.result}</p>
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gray-900">
+        <div className="bg-gray-800 shadow-md rounded p-6 max-w-sm w-full">
+          <h1 className="text-white text-2xl mb-4">Percentage Calculator</h1>
+          <CalculatorForm setResult={this.setResult} />
+          <p className="text-white text-lg mt-4">
+            Result: {this.state.result}
+          </p>
         </div>
       </div>
     );
