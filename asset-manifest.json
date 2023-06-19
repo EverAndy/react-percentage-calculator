@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EverAndy/react-percentage-calculator.git/static/css/main.e6c13ad2.css",
+    "main.js": "/EverAndy/react-percentage-calculator.git/static/js/main.5acfc2c5.js",
+    "index.html": "/EverAndy/react-percentage-calculator.git/index.html",
+    "main.e6c13ad2.css.map": "/EverAndy/react-percentage-calculator.git/static/css/main.e6c13ad2.css.map",
+    "main.5acfc2c5.js.map": "/EverAndy/react-percentage-calculator.git/static/js/main.5acfc2c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5acfc2c5.js"
+  ]
+}
