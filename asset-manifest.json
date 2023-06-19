@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-percentage-calculator/static/css/main.061d3a10.css",
-    "main.js": "/react-percentage-calculator/static/js/main.e842c961.js",
+    "main.css": "/react-percentage-calculator/static/css/main.3cea0990.css",
+    "main.js": "/react-percentage-calculator/static/js/main.48117226.js",
     "index.html": "/react-percentage-calculator/index.html",
-    "main.061d3a10.css.map": "/react-percentage-calculator/static/css/main.061d3a10.css.map",
-    "main.e842c961.js.map": "/react-percentage-calculator/static/js/main.e842c961.js.map"
+    "main.3cea0990.css.map": "/react-percentage-calculator/static/css/main.3cea0990.css.map",
+    "main.48117226.js.map": "/react-percentage-calculator/static/js/main.48117226.js.map"
   },
   "entrypoints": [
-    "static/css/main.061d3a10.css",
-    "static/js/main.e842c961.js"
+    "static/css/main.3cea0990.css",
+    "static/js/main.48117226.js"
   ]
 }
